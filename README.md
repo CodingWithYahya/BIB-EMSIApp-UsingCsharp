@@ -6,7 +6,7 @@ L'application permet de gérer la liste de emprunts / livres / CDs / périodique
 
 Sous l'encadrement : M. Outmane Bourkoukou 
 
-EMSI Marrakech #IIR4 - Décembre 2018
+EMSI Marrakech #IIR4 - Décembre 2022
 
 
 ![bib-emsi img1](https://user-images.githubusercontent.com/33481438/52504621-4b2b1600-2be9-11e9-93fe-d601e25fe13d.PNG)
